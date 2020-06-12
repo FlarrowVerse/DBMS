@@ -1,0 +1,6 @@
+Assumptions:
+1. A player can be Batsman or Bowler
+2. A batsman can bat in many matches
+3. One match can have many batsmen
+4. A bowler can bowl in many matches
+5. A match can have many bowlers

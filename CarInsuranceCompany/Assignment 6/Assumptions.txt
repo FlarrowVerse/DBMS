@@ -1,0 +1,8 @@
+Assumptions:
+1. One customer can own many cars
+2. Many car have many accidents
+3. One car can have many insurance policies
+4. One staff can sell many insurance policies
+5. Insurance Policy can be of two types:
+	a. Comprehensive policy: To replace the vehicle in case of theft or total destruction
+	b. Add-On policy: To replace parts of the car, as in collision cases

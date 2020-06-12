@@ -1,0 +1,8 @@
+Assumptions:
+
+1. One Doctor can have many patients
+2. One patient can have one Doctor
+3. One Doctor can write many Prescription
+4. One Prescription can have many medicines
+5. One Medicine can be on many Prescriptions
+6. Doctors can be of 2 types Primary and Specialist

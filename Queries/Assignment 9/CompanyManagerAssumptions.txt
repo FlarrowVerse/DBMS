@@ -1,0 +1,7 @@
+Assumptions:
+
+1. employees can be either general employee or manager
+2. one employee can work in one companies
+3. one company can have many employees
+4. one employee can have one manager
+5. one manager can manage many employees
